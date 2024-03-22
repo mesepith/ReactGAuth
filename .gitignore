@@ -67,3 +67,5 @@ yarn-error.log
 
 # Credentials
 credentials.js
+ios/ReactGAuth/GoogleService-Info.plist
+ios/ReactGAuth/Info.plist
