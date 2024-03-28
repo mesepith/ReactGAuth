@@ -69,3 +69,4 @@ yarn-error.log
 credentials.js
 ios/ReactGAuth/GoogleService-Info.plist
 ios/ReactGAuth/Info.plist
+android/app/google-services.json
